@@ -1,3 +1,26 @@
+# Ignore wp-config.php
 wp-config.php
 
+# Ignore the uploads directory
 wp-content/uploads/
+
+# Ignore temporary WordPress upgrade files
+wp-content/upgrade/
+
+# Ignore backup database files
+wp-content/backup-db/
+
+# Ignore cache files
+wp-content/cache/
+
+# Ignore advanced-cache.php file
+wp-content/advanced-cache.php
+
+# Ignore error logs
+error_log
+
+# Ignore .htaccess file
+.htaccess
+
+# Ignore log files
+*.log
